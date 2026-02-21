@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'ALK Rex Bold';
+    src: url('../fonts/alk-rex-bold-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/alk-rex-bold-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/alk-rex-bold-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/alk-rex-bold-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/alk-rex-bold-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/alk-rex-bold-webfont.svg#alk_rexbold') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-ExtraBold.ttf');
+    src: url('../Roboto-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../Roboto-ExtraBold.woff2') format('woff2'),
+        url('../Roboto-ExtraBold.woff') format('woff'),
+        url('../Roboto-ExtraBold.ttf') format('truetype'),
+        url('../Roboto-ExtraBold.svg#Roboto-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}

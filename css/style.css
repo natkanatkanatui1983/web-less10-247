@@ -72,3 +72,48 @@
     border: 1px solid color#FFFFFF 
 }
 
+.title-kartuli-absoluturi [
+    font-family: "ALK Life", sans-serif;
+]
+.title-kartuli-relatiuri [
+     font-family: 'ALK Rex Bold';
+     
+
+]
+ 
+
+ .latinuri-relatiuri {
+     font-family: 'Roboto';
+     font-weight: 800;
+     font-size: 50px;
+     line-height: 100%;
+     font-style: extrabold;
+ }
+ .line-hate {
+    line-height: 165px;
+    size: 18px;
+    font-style: regular;
+    font-weight: 400;
+ }
+ .size {
+    font-weight: 500;
+    font-style: medium;
+    font-size: 20px;
+    line-height: 100%;
+ }
+ .font-style {
+    font: open sans;
+    font-weight: 400;
+    font-style: regular;
+    font-size: 18px;
+    line-height: 165%;
+    
+ }
+ .name {
+    font: yelowtail;
+    font-weight: 400;
+    font-style: regular;
+    font-size: 36px;
+    line-height: 100%;
+    color: #7EB693;
+ }
