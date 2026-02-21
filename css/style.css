@@ -1,0 +1,11 @@
+.navigation {
+    display: inline-block;
+    vertical-align: middle;
+}
+.li-item {
+    display: inline-block;
+}
+
+.logo-item {
+    vertical-align: middle;
+}
