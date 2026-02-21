@@ -4,8 +4,71 @@
 }
 .li-item {
     display: inline-block;
+    margin-right: auto;
 }
 
 .logo-item {
     vertical-align: middle;
+    margin: right 150px; ;
 }
+.header-element {
+    width: 1595,79px;
+    height: 53,72px;
+    padding-top: 69px;
+    padding-bottom: 69px;
+}
+
+ .wraper {
+    width: 1400px;
+    height: 1050px;
+    margin: auto;
+    
+    
+ }
+  .left-box {
+    display: inline-block;
+    width: 671px;
+    vertical-align: middle;
+    text-align: center;
+    
+    
+   
+ }
+.right-box {
+    display: inline-block;
+    width: 678px;
+    vertical-align: middle;
+    
+    
+    
+    
+    
+} 
+.conteiner {
+    width: 1118px;
+    height: 335px;
+    border: 2px solid color#F9F8F8;
+    display: flex;
+    
+}
+.block1{
+    width: 257px;
+    height: 335px;
+    border: 1px solid color#FFFFFF 
+}
+.block2{
+    width: 257px;
+    height: 335px;
+    border: 1px solid color#FFFFFF 
+}
+.block3{
+    width: 257px;
+    height: 335px;
+    border: 1px solid color#FFFFFF 
+}
+.block4{
+    width: 257px;
+    height: 335px;
+    border: 1px solid color#FFFFFF 
+}
+
